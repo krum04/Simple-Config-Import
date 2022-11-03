@@ -1,4 +1,6 @@
-email = 'test@email.com'
-fname = 'Andy'
-lname = 'Smith'
-threshold = 3
+# Comment out lines like this one with the pound symbol #
+email = test@email.com
+fname = Andy
+lname = Smith
+#threshhold = 3
+#testVar = test
